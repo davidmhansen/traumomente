@@ -182,9 +182,7 @@ export default function index() {
                 </ul>
               </div>
               <div>
-                <h4 className="mb-2 text-lg font-semibold">
-                  Das erste Kennenlernen
-                </h4>
+                <h4 className="mb-2 text-lg font-semibold">Finale Absprache</h4>
                 <ul className="list-disc list-inside">
                   <li>Gemeinsames erstellen des finalen Ablaufplanes</li>
                   <li>

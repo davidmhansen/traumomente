@@ -20,8 +20,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <section className="relative flex flex-row items-center h-full gap-16 mb-32 mr-16">
-          <div className="w-9/12">
+        <section className="relative flex flex-col items-center h-full gap-16 px-2 mb-32 lg:flex-row lg:px-0">
+          <div className="lg:w-6/12 w-max">
             <Image
               src="/index.jpg"
               width={0}
@@ -32,22 +32,22 @@ export default function Home() {
                 width: "100%",
                 height: "auto",
               }}
-              className="rounded-r-lg shadow-2xl"
+              className="rounded-lg shadow-2xl lg:rounded-r-lg"
             ></Image>
           </div>
-          <div className="w-6/12">
-            <h1 className="mb-2">
+          <div className="text-center lg:w-5/12 w-12/12 lg:text-left">
+            <h1 className="mb-2 text-terracotta">
               Freie Trau- und Hochzeitsreden aus Baden-Württemberg
             </h1>
-            <span className="block mb-8 font-serif text-2xl tracking-tight md:text-6xl md:leading-tight">
-              Eine Traurede, so individuell wie ihr.
+            <span className="block mb-8 font-serif text-4xl tracking-tight md:text-6xl md:leading-tight lg:w-9/12 w-12/12">
+              Eine Traurede, genau so individuell und bunt wie ihr.
             </span>
-            <div className="w-10/12">
-              <p className="mb-4 font-medium leading-relaxed">
+            <div className="lg:w-10/12 w-12/12">
+              <p className="mb-4 text-xl font-medium leading-relaxed">
                 Ihr habt den Partner fürs Leben gefunden und plant eine freie
                 Trauung?
               </p>
-              <p className="leading-relaxed">
+              <p className="text-xl leading-relaxed">
                 Dann begleite ich euch gerne auf eurer gemeinsamen Reise und
                 sorge dafür, dass eure Trauung unvergesslich wird.
               </p>
@@ -175,9 +175,9 @@ export default function Home() {
               kennengelernt. Ich bin kommunikativ, kreativ und kann gut mit
               Worten umgehen.
             </p>
-            <p className="mb-4 leading-relaxed">
-              Ich wohne in der Nähe von Freiburg, und es ist für mich auch kein
-              Hindernis, „Liebeskilometer“ auf mich zu nehmen. Getraut habe ich
+            <p className="mb-16 leading-relaxed">
+              Ich wohne in der Nähe von Freiburg, aber das soll mich nicht daran
+              hindern „Liebeskilometer“ auf mich zu nehmen. Getraut habe ich
               bisher in meinem Beruf als Standesbeamtin, aber meine Leidenschaft
               für zugeschnittene Hochzeitsreden, die mit persönlichem Zauber des
               Ehepaares ausgefüllt sind, sind hoffentlich auch für Euch als
@@ -188,25 +188,25 @@ export default function Home() {
           </div>
         </section>
         <section className="container flex flex-col items-center justify-center px-4 py-4 mx-auto mb-16 lg:px-16 lg:py-16">
-          <h2 className="mb-2">Euer Moment voller Zauber</h2>
+          <h2 className="mb-2 text-terracotta">Euer Moment voller Zauber</h2>
           <span className="block mb-6 font-serif text-3xl tracking-tight text-center lg:text-5xl lg:leading-tight">
             Ein ganz persönlicher Trau Moment
           </span>
           <p className="w-full mb-12 leading-relaxed text-center lg:w-3/4">
-            Der große Tag - er soll ganz und gar einzigartig und voller
+            Der große Tag - er soll einzigartig, unvergesslich und voller
             Emotionen sein. Er soll eure ganz persönliche Geschichte erzählen,
-            wie aus zwei Personen eine Einheit wird.
+            wie aus zwei Personen eine unzertrennliche Einheit wird.
           </p>
           <p className="w-full mb-4 leading-relaxed text-center lg:w-3/4">
-            Ganz egal wo, ob barfuß auf einer Blumenwiese, einem alten Schloss
-            oder im luftigen Kleid am Strand. Und auch ganz egal mit wem, ob nur
-            ihr als Paar oder all euren Liebsten. Egal welche Religion, wen ihr
-            liebt oder ob ihr euch das erste Mal das Ja-Wort gebt, es spielt
-            keine Rolle denn jeder verdient seine ganz persönliche
-            Traumhochzeit! Ich, als eure persönliche Hochzeitsrednerin, stehe
-            euch dabei verlässlich zur Seite. Durch die Erzählungen eurer
-            Liebesgeschichte, entsteht eine ganz einzigartige Hochzeitsrede, die
-            alle Facetten eurer Liebe wiederspiegelt.
+            Ganz egal wo, ob barfuß auf einer Wiese, einem zauberhaften alten
+            Schloss oder im luftigen Kleid am Strand. Ganz egal mit wem, ob nur
+            ihr als Paar oder all euren Liebsten. Ganz egal an wen ihr glaubt,
+            wen ihr liebt oder ob ihr euch das erste Mal das Ja-Wort gebt, es
+            spielt keine Rolle denn jeder verdient seine ganz persönlichen Trau
+            Momente! Ich stehe euch dabei, als eure persönliche
+            Hochzeitsrednerin, stets verlässlich zur Seite. Durch die
+            Erzählungen eurer Liebesgeschichte, entsteht eine ganz einzigartige
+            Hochzeitsrede, die alle Facetten eurer Liebe wiederspiegelt.
           </p>
           <p className="w-full mb-12 leading-relaxed text-center lg:w-3/4">
             Ich freue mich jetzt schon riesig euch zu zuhören und auf eurer
