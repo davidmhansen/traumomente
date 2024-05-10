@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Footer() {
   return (
-    <footer className="container flex flex-col items-center justify-between px-16 py-16 mx-auto text-center lg:text-left lg:items-start lg:items-end lg:flex-row">
+    <footer className="container flex flex-col items-center justify-between px-16 py-16 mx-auto text-center lg:text-left lg:items-end lg:flex-row">
       <div className="flex flex-col gap-1 mb-8 lg:mb-0">
         <p className="font-medium">Trau Momente</p>
         <p className="font-medium">Ilona Lehmann</p>
