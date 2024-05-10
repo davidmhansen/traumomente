@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="flex flex-col gap-1 mb-8 lg:mb-0">
         <p className="font-medium">Trau Momente</p>
         <p className="font-medium">Ilona Lehmann</p>
-        <p>+49 (0)7641-958888</p>
+        <p>+49 (0)151-46601373</p>
         <Link href="mailto:ilona@trau-momente.de">ilona@trau-momente.de</Link>
         <p>Von-Harsch-Straße 28</p>
         <p>79276 Reute</p>
