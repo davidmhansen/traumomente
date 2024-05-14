@@ -83,8 +83,8 @@ export default function Home() {
                   Eine Zeremonie, so bunt und frei wie ihr
                 </h3>
                 <p className="leading-relaxed">
-                  Unser erstes Treffen dient dazu, uns gegenseitig
-                  kennenzulernen und eine vertrauensvolle Verbindung aufzubauen.
+                  Ob traditionell oder modern, formell oder leger - eure
+                  Hochzeit soll genau das sein, was ihr euch wünscht.
                 </p>
               </div>
             </div>
