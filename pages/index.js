@@ -221,7 +221,7 @@ export default function Home() {
         </section>
         <Slider
           name="Nicola und Florian Müller"
-          quote="“Ilona hat unsere standesamtliche Trauung zu etwas ganz besonderem gemacht und uns mit ihrer wunderschönen, emotionalen und persönlichen Traurede sehr berührt. Sie hat sich im Vorfeld sowie an dem Tag unserer Trauung sehr liebevoll um uns gekümmert und all unsere Wünsche bedingungslos ermöglicht. Ihre Worte haben unsere Beziehung und uns als Menschen perfekt widergespiegelt und alle Gäste wurden von ihrer Rede ganz herzlich abgeholt. Wir können Ilona von Herzen an jedes Paar, welches diesen wunderschönen Tag noch vor sich hat, weiterempfehlen!"
+          quote="“Ilona hat unsere Trauung zu etwas ganz besonderem gemacht und uns mit ihrer wunderschönen, emotionalen und persönlichen Traurede sehr berührt. Sie hat sich im Vorfeld sowie an dem Tag unserer Trauung sehr liebevoll um uns gekümmert und all unsere Wünsche bedingungslos ermöglicht. Ihre Worte haben unsere Beziehung und uns als Menschen perfekt widergespiegelt und alle Gäste wurden von ihrer Rede ganz herzlich abgeholt. Wir können Ilona von Herzen an jedes Paar, welches diesen wunderschönen Tag noch vor sich hat, weiterempfehlen!"
           imageURL="/nicola-und-florian-mueller.jpeg"
         ></Slider>
         <section className="container flex flex-col items-center justify-center px-8 py-8 mx-auto mb-16 rounded-lg lg:justify-between lg:items-start lg:px-16 lg:py-16 bg-white-linen lg:flex-row">
