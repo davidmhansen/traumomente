@@ -74,8 +74,8 @@ export default function Home() {
                   Eine Traurede, die euere Geschichte erzählt
                 </h3>
                 <p className="leading-relaxed">
-                  Unser erstes Treffen dient dazu, uns gegenseitig
-                  kennenzulernen und eine vertrauensvolle Verbindung aufzubauen.
+                  Denn eure Geschichte ist ein kostbarer Schatz, den ich
+                  einfangen und in einer Traurede zum Leben erwecken möchte.
                 </p>
               </div>
               <div className="text-center lg:text-left">
