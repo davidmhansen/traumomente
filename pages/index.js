@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 // * components
-import Slider from "@/components/Slider/Slider";
+import TestimonialSlider from "@/components/Slider/Slider";
 
 export default function Home() {
   return (
@@ -219,11 +219,7 @@ export default function Home() {
             Termin anfragen
           </Link>
         </section>
-        <Slider
-          name="Nicola und Florian Müller"
-          quote="“Ilona hat unsere Trauung zu etwas ganz besonderem gemacht und uns mit ihrer wunderschönen, emotionalen und persönlichen Traurede sehr berührt. Sie hat sich im Vorfeld sowie an dem Tag unserer Trauung sehr liebevoll um uns gekümmert und all unsere Wünsche bedingungslos ermöglicht. Ihre Worte haben unsere Beziehung und uns als Menschen perfekt widergespiegelt und alle Gäste wurden von ihrer Rede ganz herzlich abgeholt. Wir können Ilona von Herzen an jedes Paar, welches diesen wunderschönen Tag noch vor sich hat, weiterempfehlen!"
-          imageURL="/nicola-und-florian-mueller.jpeg"
-        ></Slider>
+        <TestimonialSlider></TestimonialSlider>
         <section className="container flex flex-col items-center justify-center px-8 py-8 mx-auto mb-16 rounded-lg lg:justify-between lg:items-start lg:px-16 lg:py-16 bg-white-linen lg:flex-row">
           <div className="flex items-center justify-center w-full lg:justify-start lg:w-4/12">
             <h2 className="mb-6 font-serif text-3xl tracking-tight text-tuatara lg:text-5xl lg:leading-tight lg:max-w-96">
