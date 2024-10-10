@@ -11,7 +11,8 @@ export default function index() {
         </title>
         <meta
           name="description"
-          content="Freie Trau- und Hochzeitsreden aus Baden-Württemberg"
+          content="Traumomente mit Ilona Lehmann: Individuelle Traureden in Reute und Umgebung. Eure Hochzeit, Eure Geschichte - emotional und authentisch erzählt."
+          key="desc"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
