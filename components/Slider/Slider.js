@@ -32,7 +32,7 @@ export default function TestimonialSlider() {
                   Nicola und Florian Müller
                 </span>
                 <p className="leading-relaxed">
-                  “Ilona hat unsere Trauung zu etwas ganz besonderem gemacht und
+                  "Ilona hat unsere Trauung zu etwas ganz besonderem gemacht und
                   uns mit ihrer wunderschönen, emotionalen und persönlichen
                   Traurede sehr berührt. Sie hat sich im Vorfeld sowie an dem
                   Tag unserer Trauung sehr liebevoll um uns gekümmert und all
@@ -64,7 +64,7 @@ export default function TestimonialSlider() {
               <div className="lg:w-1/2 w-1/1">
                 <span className="block mb-6 font-medium">Matze und Anki</span>
                 <p className="leading-relaxed">
-                  “Rückblickend auf unsere Hochzeit und die Traurede von Ilona,
+                  "Rückblickend auf unsere Hochzeit und die Traurede von Ilona,
                   könnten wir zufriedener nicht sein. Vom ersten Treffen an hat
                   sie uns mit ihrer herzlichen und offene Art überzeugt und wir
                   hatten von Anfang an das Gefühl bei ihr in guten Händen zu

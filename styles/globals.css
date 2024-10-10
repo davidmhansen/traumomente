@@ -6,3 +6,11 @@
   --main-color: hotpink;
   --site-padding: 16px;
 }
+
+.slick-dots {
+  bottom: -40px !important;
+}
+
+.slick-dots > li > button:before {
+  font-size: 10px !important;
+}
