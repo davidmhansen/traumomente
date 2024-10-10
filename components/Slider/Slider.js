@@ -32,15 +32,16 @@ export default function TestimonialSlider() {
                   Nicola und Florian Müller
                 </span>
                 <p className="leading-relaxed">
-                  "Ilona hat unsere Trauung zu etwas ganz besonderem gemacht und
-                  uns mit ihrer wunderschönen, emotionalen und persönlichen
-                  Traurede sehr berührt. Sie hat sich im Vorfeld sowie an dem
-                  Tag unserer Trauung sehr liebevoll um uns gekümmert und all
-                  unsere Wünsche bedingungslos ermöglicht. Ihre Worte haben
-                  unsere Beziehung und uns als Menschen perfekt widergespiegelt
-                  und alle Gäste wurden von ihrer Rede ganz herzlich abgeholt.
-                  Wir können Ilona von Herzen an jedes Paar, welches diesen
-                  wunderschönen Tag noch vor sich hat, weiterempfehlen!"
+                  &quot;Ilona hat unsere Trauung zu etwas ganz besonderem
+                  gemacht und uns mit ihrer wunderschönen, emotionalen und
+                  persönlichen Traurede sehr berührt. Sie hat sich im Vorfeld
+                  sowie an dem Tag unserer Trauung sehr liebevoll um uns
+                  gekümmert und all unsere Wünsche bedingungslos ermöglicht.
+                  Ihre Worte haben unsere Beziehung und uns als Menschen perfekt
+                  widergespiegelt und alle Gäste wurden von ihrer Rede ganz
+                  herzlich abgeholt. Wir können Ilona von Herzen an jedes Paar,
+                  welches diesen wunderschönen Tag noch vor sich hat,
+                  weiterempfehlen!&quot;
                 </p>
               </div>
               <div className="lg:w-1/2 w-1/1">
@@ -64,19 +65,19 @@ export default function TestimonialSlider() {
               <div className="lg:w-1/2 w-1/1">
                 <span className="block mb-6 font-medium">Matze und Anki</span>
                 <p className="leading-relaxed">
-                  "Rückblickend auf unsere Hochzeit und die Traurede von Ilona,
-                  könnten wir zufriedener nicht sein. Vom ersten Treffen an hat
-                  sie uns mit ihrer herzlichen und offene Art überzeugt und wir
-                  hatten von Anfang an das Gefühl bei ihr in guten Händen zu
-                  sein. Sie hat sich viel Zeit für uns in einem ausführlichen
-                  Gespräch genommen, um uns und unsere gemeinsame Geschichte
-                  genauer kennenzulernen und die Rede so persönlich wie möglich
-                  zu gestalten. Dies ist ihr auch bestens gelungen. Am Tag der
-                  Hochzeit konnten wir uns voll und ganz auf Ilona verlassen.
-                  Sie hat mit ihrer Rede nicht nur uns, sondern auch unsere
-                  Gäste zu Tränen gerührt. Und wir denken gerne an ihre Worte
-                  zurück. Wir können Ilona wärmstens empfehlen und danken ihr
-                  von Herzen für die tolle Rede."
+                  &quot;Rückblickend auf unsere Hochzeit und die Traurede von
+                  Ilona, könnten wir zufriedener nicht sein. Vom ersten Treffen
+                  an hat sie uns mit ihrer herzlichen und offene Art überzeugt
+                  und wir hatten von Anfang an das Gefühl bei ihr in guten
+                  Händen zu sein. Sie hat sich viel Zeit für uns in einem
+                  ausführlichen Gespräch genommen, um uns und unsere gemeinsame
+                  Geschichte genauer kennenzulernen und die Rede so persönlich
+                  wie möglich zu gestalten. Dies ist ihr auch bestens gelungen.
+                  Am Tag der Hochzeit konnten wir uns voll und ganz auf Ilona
+                  verlassen. Sie hat mit ihrer Rede nicht nur uns, sondern auch
+                  unsere Gäste zu Tränen gerührt. Und wir denken gerne an ihre
+                  Worte zurück. Wir können Ilona wärmstens empfehlen und danken
+                  ihr von Herzen für die tolle Rede.&quot;
                 </p>
               </div>
               <div className="lg:w-1/2 w-1/1">
