@@ -8,11 +8,11 @@ module.exports = {
   theme: {
     colors: {
       "white-linen": "#F7EDE4",
-      "terracotta": "#DF684F",
-      "tuatara": "#201F1D",
-      "tallow": "#A9A089",
-      "white": "#FFF",
-      "apricot": "#E58672"
+      terracotta: "#DF684F",
+      tuatara: "#201F1D",
+      tallow: "#A9A089",
+      white: "#FFF",
+      apricot: "#E58672",
     },
     fontFamily: {
       sans: ["Montserrat", "sans-serif"],

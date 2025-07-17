@@ -1,6 +1,13 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-white-linen: #f7ede4;
+  --color-terracotta: #df684f;
+  --color-tuatara: #201f1d;
+  --color-tallow: #a9a089;
+  --color-white: #fff;
+  --color-apricot: #e58672;
+}
 
 :root {
   --main-color: hotpink;
