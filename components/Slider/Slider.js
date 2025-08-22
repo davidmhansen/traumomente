@@ -16,6 +16,7 @@ export default function TestimonialSlider() {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
+    adaptiveHeight: true,
   };
 
   return (
@@ -83,6 +84,38 @@ export default function TestimonialSlider() {
               <div className="lg:w-1/2 w-1/1">
                 <Image
                   src={"/shiny-hearts.webp"}
+                  width={0}
+                  height={0}
+                  sizes="100vw"
+                  alt="Picture of the author"
+                  style={{
+                    width: "100%",
+                    height: "auto",
+                  }}
+                  className="w-1/2 rounded-lg"
+                ></Image>
+              </div>
+            </div>
+          </React.Fragment>
+          <React.Fragment>
+            <div className="flex flex-col items-center gap-10 lg:flex-row">
+              <div className="lg:w-1/2 w-1/1">
+                <span className="block mb-6 font-medium">Sabine und Achim</span>
+                <p className="leading-relaxed">
+                  &quot;Vielen herzlichen Dank für Deine emotionale, liebevolle
+                  und auch sehr lustige Traurede. Unsere Gäste und wir waren
+                  total berührt. Du hast es geschafft aus unserer
+                  Kennenlerngeschichte eine amüsante und äußerst zutreffende
+                  Rede zu gestalten. Der Rahmen und auch die Zeremonie waren
+                  rundum wunderschön. Wir werden uns stets an diesen
+                  wunderschönen Tag mit Dir und die traumhafte Trauzeremonie
+                  erinnern und wünschen Dir weiterhin wundervolle Paare und
+                  deren Liebesgeschichten.&quot;
+                </p>
+              </div>
+              <div className="lg:w-1/2 w-1/1">
+                <Image
+                  src={"/sabine-und-achim.webp"}
                   width={0}
                   height={0}
                   sizes="100vw"
