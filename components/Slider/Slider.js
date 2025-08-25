@@ -110,7 +110,8 @@ export default function TestimonialSlider() {
                   rundum wunderschön. Wir werden uns stets an diesen
                   wunderschönen Tag mit Dir und die traumhafte Trauzeremonie
                   erinnern und wünschen Dir weiterhin wundervolle Paare und
-                  deren Liebesgeschichten.&quot;
+                  deren Liebesgeschichten. Es war ein Traumtag und ohne DICH
+                  wäre das nicht möglich gewesen &#x2764;&quot;
                 </p>
               </div>
               <div className="lg:w-1/2 w-1/1">
