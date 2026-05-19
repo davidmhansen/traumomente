@@ -12,7 +12,7 @@
     "node": ">=22.x"
   },
   "dependencies": {
-    "next": "15.4.1",
+    "next": "15.4.10",
     "react": "^19",
     "react-dom": "^19",
     "react-slick": "^0.30.3",
